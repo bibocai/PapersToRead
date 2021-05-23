@@ -7,6 +7,7 @@
 Subgraph Neural Networks Nips2020
 
 ## Natural Logic
+**Rnnlogic : Learning Logic Rules For Reasoning On Knowledge Graphs** *Meng Qu\*, Junkun Chen\*, Louis-Pascal Xhonneux, Yoshua Bengio, Jian Tang* `ICLR2020` [[pdf]](https://arxiv.org/pdf/2010.04029.pdf) [[note]](https://docs.qq.com/doc/DWW54RFh0ZWdKbENm) ![](https://img.shields.io/badge/Logic-EM-blue)
 
 ## Uncertainty
 
