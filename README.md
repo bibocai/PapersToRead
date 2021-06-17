@@ -15,4 +15,5 @@ Uncertainty-Aware Label Refinement for Sequence Labeling EMNLP2020
 
 ## Event
 
-Future is not One-dimensional: Graph Modeling based Complex Event Schema Induction for Event Prediction
+**Future is not One-dimensional: Graph Modeling based Complex Event Schema Induction for Event Prediction** 
+**Mining Verb-Oriented Commonsense Knowledge** *Jingping Liu, Yuanfu Zhou, Dan Wu, Chao Wang, Haiyun Jiang, Sheng Zhang, Bo Xu, Yanghua Xiao* `ICDE2020 short` [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9101187)
